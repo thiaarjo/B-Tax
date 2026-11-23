@@ -1,0 +1,3 @@
+﻿@echo off
+echo Abrindo a pasta do codigo-fonte do BTax...
+explorer "C:\Users\ticoa\.gemini\antigravity\scratch\btax"
